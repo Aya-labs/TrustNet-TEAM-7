@@ -23,7 +23,7 @@ const Topbar = () => {
             className="text-5xl text-white font-semibold items-center justify-center flex"
           >
             <Image src={Image} className="w-20 p-3 cursor-pointer rounded-full" alt=" LOGOMAN "/>
-            <p className="text-white px-3 text-lg">PowerArk</p>
+            <p className="text-white px-3 text-lg">Overview</p>
           </Link>
           {/* ========== for mobile menu =========== */}
           <div className="mobile-menu block ">
